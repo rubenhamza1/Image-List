@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Desktop\ImageList\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\Ucenik\Desktop\ImageList\ImageList\bin\Debug\ImageList.exe
+C:\Users\Ucenik\Desktop\ImageList\ImageList\bin\Debug\ImageList.pdb
+C:\Users\Ucenik\Desktop\ImageList\ImageList\obj\Debug\ImageList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\ImageList\ImageList\obj\Debug\ImageList.Form1.resources
+C:\Users\Ucenik\Desktop\ImageList\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\ImageList\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\ImageList\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\ImageList\ImageList\obj\Debug\ImageList.exe
+C:\Users\Ucenik\Desktop\ImageList\ImageList\obj\Debug\ImageList.pdb
